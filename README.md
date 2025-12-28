@@ -37,5 +37,3 @@ This project focuses on analyzing time series data and generating forecasts usin
    - Plotted forecasts alongside actual data  
    - Highlighted trends, seasonal patterns, and potential actionable insights  
 
-pip install numpy pandas matplotlib statsmodels
-
