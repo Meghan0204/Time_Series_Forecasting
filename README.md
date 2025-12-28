@@ -5,6 +5,7 @@ A Time Series Forecasting project completed as part of the **Pandas for Time Ser
 ---
 
 ## Overview
+
 This project focuses on analyzing time series data and generating forecasts using statistical methods. The main objectives are:  
 - Explore and visualize time series data  
 - Apply statistical models to identify trends and seasonality  
@@ -13,6 +14,7 @@ This project focuses on analyzing time series data and generating forecasts usin
 ---
 
 ## Technologies Used
+
 - **statsmodels** – statistical modeling, hypothesis testing, and data exploration  
 - **numpy** – numerical computing, arrays, and mathematical operations  
 - **pandas** – data manipulation and analysis with DataFrames and Series  
@@ -21,6 +23,7 @@ This project focuses on analyzing time series data and generating forecasts usin
 ---
 
 ## Project Workflow
+
 1. **Data Import & Cleaning**  
    - Loaded dataset using pandas  
    - Handled missing values and ensured proper datetime formats  
@@ -30,10 +33,26 @@ This project focuses on analyzing time series data and generating forecasts usin
    - Generated descriptive statistics to understand data patterns  
 
 3. **Modeling & Forecasting**  
-   - Applied statistical models with statsmodels (e.g., ARIMA, seasonal decomposition)  
-   - Evaluated model performance using relevant metrics  
+   - Applied statistical models with statsmodels (e.g., ARIMA, Holt-Winters, seasonal decomposition)  
+   - Evaluated model performance using metrics like RMSE  
 
 4. **Results & Insights**  
    - Plotted forecasts alongside actual data  
    - Highlighted trends, seasonal patterns, and potential actionable insights  
 
+---
+
+## Example Notebooks
+
+- `Holt Winters Forecasting.ipynb` – Implemented Holt-Winters exponential smoothing  
+- `Quantitative Testing.ipynb` – Statistical tests and evaluation  
+- `RMSE.ipynb` – Model error evaluation using RMSE  
+- `Vector Auto Regression.ipynb` – Multi-variable time series forecasting  
+
+---
+
+## Contact
+
+**Meghan Ann O’Connell**  
+📧 [meghan.oconnell0011@gmail.com](mailto:meghan.oconnell0011@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/meghan-oconnell0011/)
